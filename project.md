@@ -2,14 +2,15 @@
 
 ## The user and a language
 
-This section describes who the project would serve and why a language might be a
-good way to meet their needs.
+This language is to digitally create quilting pantograph patterns that can be printed out and used on a long-arm quilting machine.
 
 ### What's the need?
 
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help
 them?_
+
+This language is meant to help amateur home-quilters create and quilt more elaborate quilting patterns. Long-arm quilters currently have limited options for creating paper pantographs - if they want a digital pattern to print out, they can either buy a pattern for $15-25 online or buy quilting software to help automate this task. If they wish to create their own, the easiest way is to hand-replicate a pattern.
 
 ### Why a language?
 
