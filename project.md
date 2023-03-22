@@ -10,15 +10,23 @@ _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help
 them?_
 
-This language is meant to help amateur home-quilters create and quilt more elaborate quilting patterns. Long-arm quilters currently have limited options for creating paper pantographs - if they want a digital pattern to print out, they can either buy a pattern for $15-25 online or buy quilting software to help automate this task. If they wish to create their own, the easiest way is to hand-replicate a pattern.
+This language is meant to help amateur home-quilters create and quilt more elaborate quilting patterns. Long-arm quilters currently have limited options for creating paper pantographs - if they want a digital pattern to print out, they can either buy a pattern for $15-25 online or buy quilting software to help automate this task. If they wish to create their own, the easiest way is to hand-replicate a pattern, or create one in an aformentioned quilting software and print it out.
+
+Ideally, this experience could be made easier by having a dedicated platform to make pantographs that can create and modify the line design, as well as visualize how it gets repeated across a quilt surface, and being able to print it out according to quilt size specifications.
 
 ### Why a language?
 
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
+I believe a DSL is appropriate for the need because it could leverage the automation of patterns, and quickly propogate an idea to visualize the larger pattern. Drawing one shape is probably easier by hand, but to have it be a pattern and then be the right size to print and then quilt is a more complicated procedure, that could benefit from all of those things being in the same place. In other words, since design aesthetics are a crucial component of this step in the quilting process, streamlining things like whether a design is a valid continuous line, with entrance and exit points at the same place, and being able to see how it would visually look across a quilt can help improve the creating and prototyping process of a pantograph design. 
+
+As far as quilters using a programming language, computer aided design tools are often not compeletely unfamiliar to quilters
+
 ### Why you?
 
 _What excites you about this idea? How did you come up with it?_
+
+I like this idea because I'm a quilter myself, and it's been interesting to learn more about this technique and the technology available for it. Long-arm quilting is not something I personally do because I don't own a machine, but the quilting designs themselves are as important as the piecework of creating the quilt-top so I came up with it as I was exploring the patterns different textile artists create. I think it's exciting to potentially create a tool that will aid quilters in a part of the creation process that often gets outsourced, and offer them another degree of creative freedom.
 
 ### Domain
 
