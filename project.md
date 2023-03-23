@@ -41,7 +41,7 @@ like? Why is this the right way to interact with the problem domain?_
 
 Ideally, I'd like the user to be able to interact with the language in a combined approach of settings/menus, and textual interaction. The continuous line design itself, as a singular object, would be created using a written language similarly to other written designing languges for simulation or visually creative designs. Then quick modular operations, like rotations, importing an existing design, flipping a design, and settings for the view window would be menu buttons. 
 
-I think this is the best way to interact with the domain because it still allows for maximum control over the line design itself, while making easy overall design choices, and modifying ways to view the overall design, more intuitive especially for users who are likely less familiar with coding.
+I think this is the best way to interact with the domain because it still allows for maximum control over the line design itself, while making easy overall design choices, and modifying ways to view the overall design, more intuitive especially for users who are likely less familiar with coding. (Explicitly, this is an external DSL.)
 
 ### Operation (semantics)
 
@@ -79,11 +79,17 @@ making language design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated semantics that doesn't require a lot
 of language design)?_
 
+I think this has a lot of really cool language design decision possibilities, especially for the users that would use it, thinking about whether there is code or a different kind of interface is already a really important question, as well as the design all of the capabilities and the best way for a user to implement them. There would also be the design of the syntax of the textual language itself, which I think is balanced by the potential problems with implementing menu buttons with the fact that most of the implementation is image generation and manipulation, which already has lots of support in many potential host languages.
+
 ### Scope
 
 _How big an idea is this? How ambitious is this project?_
+
+I think this idea is ambitious, but not overly so. It definitely has some stretch components, and some use cases that would be necessary for a marketable product, but not for the scope of the class. That being said, because most of the implementation could leverage exisiting host language's visualization capabilities, I think the project is very reasonably in scope.
 
 ### Benefits and drawbacks
 
 _Why might this be a good idea for a project? Why might this not be a good idea
 project?_
+
+I personally think this is a fun idea for a project because it takes existing DSL ideas for creativity and simulation and art and puts a new twist on it with an otherwise niche domain. The specific domain is a new lens to look at drawing and visualization DSLs, and has its own constraints and needed capabilities that I'm interested in. That being said, my biggest concern is that this DSL idea is too niche. If there's an argument to be made about the life of the DSL after this class, I'm not sure how many people besides me would be interested in using it. Wihtin this class however, I think it feels reasonable for me to complete by the end of the semester.
